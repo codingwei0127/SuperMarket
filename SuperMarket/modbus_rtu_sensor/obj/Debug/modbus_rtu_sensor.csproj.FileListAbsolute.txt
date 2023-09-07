@@ -1,0 +1,123 @@
+D:\岳勳D槽\程式\暫存3\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.exe.config
+D:\岳勳D槽\程式\暫存3\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.exe
+D:\岳勳D槽\程式\暫存3\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.pdb
+D:\岳勳D槽\程式\暫存3\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\Newtonsoft.Json.dll
+D:\岳勳D槽\程式\暫存3\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\NModbus4.dll
+D:\岳勳D槽\程式\暫存3\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\Newtonsoft.Json.xml
+D:\岳勳D槽\程式\暫存3\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\NModbus4.xml
+D:\岳勳D槽\程式\暫存3\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.AssemblyReference.cache
+D:\岳勳D槽\程式\暫存3\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.Form1.resources
+D:\岳勳D槽\程式\暫存3\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.Properties.Resources.resources
+D:\岳勳D槽\程式\暫存3\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.GenerateResource.cache
+D:\岳勳D槽\程式\暫存3\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.CoreCompileInputs.cache
+D:\岳勳D槽\程式\暫存3\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.CopyComplete
+D:\岳勳D槽\程式\暫存3\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.exe
+D:\岳勳D槽\程式\暫存3\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.pdb
+C:\Users\昱倫\OneDrive\桌面\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.exe.config
+C:\Users\昱倫\OneDrive\桌面\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.exe
+C:\Users\昱倫\OneDrive\桌面\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.pdb
+C:\Users\昱倫\OneDrive\桌面\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\昱倫\OneDrive\桌面\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\NModbus4.dll
+C:\Users\昱倫\OneDrive\桌面\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\昱倫\OneDrive\桌面\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\NModbus4.xml
+C:\Users\昱倫\OneDrive\桌面\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.AssemblyReference.cache
+C:\Users\昱倫\OneDrive\桌面\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.Properties.Resources.resources
+C:\Users\昱倫\OneDrive\桌面\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.GenerateResource.cache
+C:\Users\昱倫\OneDrive\桌面\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.CoreCompileInputs.cache
+C:\Users\昱倫\OneDrive\桌面\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.CopyComplete
+C:\Users\昱倫\OneDrive\桌面\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.exe
+C:\Users\昱倫\OneDrive\桌面\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.pdb
+C:\Users\昱倫\OneDrive\桌面\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.m.resources
+C:\Users\608-2\Desktop\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.exe.config
+C:\Users\608-2\Desktop\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.exe
+C:\Users\608-2\Desktop\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.pdb
+C:\Users\608-2\Desktop\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\608-2\Desktop\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\NModbus4.dll
+C:\Users\608-2\Desktop\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\608-2\Desktop\modbus_rtu_sensor\modbus_rtu_sensor\bin\Debug\NModbus4.xml
+C:\Users\608-2\Desktop\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csprojAssemblyReference.cache
+C:\Users\608-2\Desktop\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.m.resources
+C:\Users\608-2\Desktop\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.Properties.Resources.resources
+C:\Users\608-2\Desktop\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.GenerateResource.cache
+C:\Users\608-2\Desktop\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.CoreCompileInputs.cache
+C:\Users\608-2\Desktop\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.CopyComplete
+C:\Users\608-2\Desktop\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.exe
+C:\Users\608-2\Desktop\modbus_rtu_sensor\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.pdb
+C:\Users\昱倫\OneDrive\桌面\PV\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.exe.config
+C:\Users\昱倫\OneDrive\桌面\PV\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.exe
+C:\Users\昱倫\OneDrive\桌面\PV\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.pdb
+C:\Users\昱倫\OneDrive\桌面\PV\modbus_rtu_sensor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\昱倫\OneDrive\桌面\PV\modbus_rtu_sensor\bin\Debug\NModbus4.dll
+C:\Users\昱倫\OneDrive\桌面\PV\modbus_rtu_sensor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\昱倫\OneDrive\桌面\PV\modbus_rtu_sensor\bin\Debug\NModbus4.xml
+C:\Users\昱倫\OneDrive\桌面\PV\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.AssemblyReference.cache
+C:\Users\昱倫\OneDrive\桌面\PV\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.m.resources
+C:\Users\昱倫\OneDrive\桌面\PV\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.Properties.Resources.resources
+C:\Users\昱倫\OneDrive\桌面\PV\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.GenerateResource.cache
+C:\Users\昱倫\OneDrive\桌面\PV\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.CoreCompileInputs.cache
+C:\Users\昱倫\OneDrive\桌面\PV\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.CopyComplete
+C:\Users\昱倫\OneDrive\桌面\PV\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.exe
+C:\Users\昱倫\OneDrive\桌面\PV\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.pdb
+C:\Users\昱倫\OneDrive\桌面\湖口\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.exe.config
+C:\Users\昱倫\OneDrive\桌面\湖口\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.exe
+C:\Users\昱倫\OneDrive\桌面\湖口\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.pdb
+C:\Users\昱倫\OneDrive\桌面\湖口\modbus_rtu_sensor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\昱倫\OneDrive\桌面\湖口\modbus_rtu_sensor\bin\Debug\NModbus4.dll
+C:\Users\昱倫\OneDrive\桌面\湖口\modbus_rtu_sensor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\昱倫\OneDrive\桌面\湖口\modbus_rtu_sensor\bin\Debug\NModbus4.xml
+C:\Users\昱倫\OneDrive\桌面\湖口\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.AssemblyReference.cache
+C:\Users\昱倫\OneDrive\桌面\湖口\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.m.resources
+C:\Users\昱倫\OneDrive\桌面\湖口\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.Properties.Resources.resources
+C:\Users\昱倫\OneDrive\桌面\湖口\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.GenerateResource.cache
+C:\Users\昱倫\OneDrive\桌面\湖口\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.CoreCompileInputs.cache
+C:\Users\昱倫\OneDrive\桌面\湖口\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.CopyComplete
+C:\Users\昱倫\OneDrive\桌面\湖口\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.exe
+C:\Users\昱倫\OneDrive\桌面\湖口\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.pdb
+C:\Users\Hello\Desktop\湖口 - 改\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.exe.config
+C:\Users\Hello\Desktop\湖口 - 改\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.exe
+C:\Users\Hello\Desktop\湖口 - 改\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.pdb
+C:\Users\Hello\Desktop\湖口 - 改\modbus_rtu_sensor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hello\Desktop\湖口 - 改\modbus_rtu_sensor\bin\Debug\NModbus4.dll
+C:\Users\Hello\Desktop\湖口 - 改\modbus_rtu_sensor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hello\Desktop\湖口 - 改\modbus_rtu_sensor\bin\Debug\NModbus4.xml
+C:\Users\Hello\Desktop\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.AssemblyReference.cache
+C:\Users\Hello\Desktop\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hello\Desktop\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.m.resources
+C:\Users\Hello\Desktop\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.Properties.Resources.resources
+C:\Users\Hello\Desktop\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.GenerateResource.cache
+C:\Users\Hello\Desktop\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Desktop\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.CopyComplete
+C:\Users\Hello\Desktop\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.exe
+C:\Users\Hello\Desktop\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.pdb
+D:\SUCCESSLATEISOK\4-重要_後續需要整理\5-我們碰過的案子_軟體\7-湖口超市\1-20230224出差\湖口 - 改\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.exe.config
+D:\SUCCESSLATEISOK\4-重要_後續需要整理\5-我們碰過的案子_軟體\7-湖口超市\1-20230224出差\湖口 - 改\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.exe
+D:\SUCCESSLATEISOK\4-重要_後續需要整理\5-我們碰過的案子_軟體\7-湖口超市\1-20230224出差\湖口 - 改\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.pdb
+D:\SUCCESSLATEISOK\4-重要_後續需要整理\5-我們碰過的案子_軟體\7-湖口超市\1-20230224出差\湖口 - 改\modbus_rtu_sensor\bin\Debug\Newtonsoft.Json.dll
+D:\SUCCESSLATEISOK\4-重要_後續需要整理\5-我們碰過的案子_軟體\7-湖口超市\1-20230224出差\湖口 - 改\modbus_rtu_sensor\bin\Debug\NModbus4.dll
+D:\SUCCESSLATEISOK\4-重要_後續需要整理\5-我們碰過的案子_軟體\7-湖口超市\1-20230224出差\湖口 - 改\modbus_rtu_sensor\bin\Debug\Newtonsoft.Json.xml
+D:\SUCCESSLATEISOK\4-重要_後續需要整理\5-我們碰過的案子_軟體\7-湖口超市\1-20230224出差\湖口 - 改\modbus_rtu_sensor\bin\Debug\NModbus4.xml
+D:\SUCCESSLATEISOK\4-重要_後續需要整理\5-我們碰過的案子_軟體\7-湖口超市\1-20230224出差\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.AssemblyReference.cache
+D:\SUCCESSLATEISOK\4-重要_後續需要整理\5-我們碰過的案子_軟體\7-湖口超市\1-20230224出差\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.SuggestedBindingRedirects.cache
+D:\SUCCESSLATEISOK\4-重要_後續需要整理\5-我們碰過的案子_軟體\7-湖口超市\1-20230224出差\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.m.resources
+D:\SUCCESSLATEISOK\4-重要_後續需要整理\5-我們碰過的案子_軟體\7-湖口超市\1-20230224出差\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.Properties.Resources.resources
+D:\SUCCESSLATEISOK\4-重要_後續需要整理\5-我們碰過的案子_軟體\7-湖口超市\1-20230224出差\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.GenerateResource.cache
+D:\SUCCESSLATEISOK\4-重要_後續需要整理\5-我們碰過的案子_軟體\7-湖口超市\1-20230224出差\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.CoreCompileInputs.cache
+D:\SUCCESSLATEISOK\4-重要_後續需要整理\5-我們碰過的案子_軟體\7-湖口超市\1-20230224出差\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.CopyComplete
+D:\SUCCESSLATEISOK\4-重要_後續需要整理\5-我們碰過的案子_軟體\7-湖口超市\1-20230224出差\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.exe
+D:\SUCCESSLATEISOK\4-重要_後續需要整理\5-我們碰過的案子_軟體\7-湖口超市\1-20230224出差\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.pdb
+C:\Users\Hello\Desktop\新增資料夾\湖口 - 改\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.exe.config
+C:\Users\Hello\Desktop\新增資料夾\湖口 - 改\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.exe
+C:\Users\Hello\Desktop\新增資料夾\湖口 - 改\modbus_rtu_sensor\bin\Debug\modbus_rtu_sensor.pdb
+C:\Users\Hello\Desktop\新增資料夾\湖口 - 改\modbus_rtu_sensor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hello\Desktop\新增資料夾\湖口 - 改\modbus_rtu_sensor\bin\Debug\NModbus4.dll
+C:\Users\Hello\Desktop\新增資料夾\湖口 - 改\modbus_rtu_sensor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hello\Desktop\新增資料夾\湖口 - 改\modbus_rtu_sensor\bin\Debug\NModbus4.xml
+C:\Users\Hello\Desktop\新增資料夾\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.AssemblyReference.cache
+C:\Users\Hello\Desktop\新增資料夾\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hello\Desktop\新增資料夾\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.m.resources
+C:\Users\Hello\Desktop\新增資料夾\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.Properties.Resources.resources
+C:\Users\Hello\Desktop\新增資料夾\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.GenerateResource.cache
+C:\Users\Hello\Desktop\新增資料夾\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Desktop\新增資料夾\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.csproj.CopyComplete
+C:\Users\Hello\Desktop\新增資料夾\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.exe
+C:\Users\Hello\Desktop\新增資料夾\湖口 - 改\modbus_rtu_sensor\obj\Debug\modbus_rtu_sensor.pdb
